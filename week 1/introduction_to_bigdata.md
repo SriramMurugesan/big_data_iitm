@@ -8,3 +8,5 @@ frame works:
 cassandra,hadoop,spark
 
 parallel processing
+
+ 
